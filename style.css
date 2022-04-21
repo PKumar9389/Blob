@@ -1,0 +1,10 @@
+.blob{
+    width: 200px;
+    height: 200px;
+    border-radius: 70% 40% 30% 80% / 55% 45% 60% 50%;
+    background: #8f44fd;
+}
+
+*{
+    color: yellow;
+}
